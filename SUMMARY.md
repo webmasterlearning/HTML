@@ -1,4 +1,5 @@
 # Summary
 
-* [HTML LEARNING PATH](htmllearning_path.md)
+* [Introduction](README.md)
+* [HTML LEARNING PATH](htmllearningpath_md.md)
 
