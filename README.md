@@ -1,6 +1,6 @@
 # Webmaster Learning Paths
 
-Written by Webmaster Outreach[google.com] sponsored by — Google
+Written by [Webmaster Outreach](https://www.google.com/webmasters/ sponsored by — Google
 
 This is a learning program that anyone can use to learn more about creating and editing content online. It walks you through a hands-on approach to front-end development: how to learn it and what tools can be used for it.
 
