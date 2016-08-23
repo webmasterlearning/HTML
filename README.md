@@ -32,7 +32,7 @@ Part four identifies web development tools and working with third-party content 
 
 Download a .pdf, .epub, or .mobi file from:
 
-https://www.gitbook.com/book/webmasters/webmaster-learning-paths/details
+https://www.gitbook.com/book/webmasters/webmaster-learning-paths/
 
 Contribute content, suggestions, and fixes on github:
 
