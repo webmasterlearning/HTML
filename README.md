@@ -45,6 +45,6 @@ https://github.com/webmasterlearning[github.com]
 
 ---
 
-
+![](cc.png)
 
 This work is licensed under a Attribution 4.0 International[creativecommons.org] License.
