@@ -14,19 +14,19 @@ The material should not be considered a comprehensive list of all resources avai
 
 The learning program is divided into four parts.
 
-Part I. The HTML Learning Path
+[Part I. The HTML Learning Path](https://www.gitbook.com/book/webmasters/learn-html)
 
 Part one provides a hands-on approach and tips for using HTML to create a web page.
 
-Part II: The CSS Learning Path
+Part II: The CSS Learning Path (Currently in-development)
 
 Part two provides a hands-on approach for editing CSS and developing the presentation layer of your web content.
 
-Part III: The JavaScript Learning Path
+Part III: The JavaScript Learning Path (Currently in-development)
 
 Part three covers the front-end interaction and behavior mechanism for online content.
 
-Part IV: Development Tools and Web Environments
+Part IV: Development Tools and Web Environments (Currently in-development)
 
 Part four identifies web development tools and working with third-party content systems to create content online.
 
