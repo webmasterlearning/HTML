@@ -1,6 +1,4 @@
-# HTML
-HTML - 
-This is a hands-on introduction to HTML, as part of the Webmaster Learning Path by Google. This lesson covers the contextual “Why” for using HTML and the steps for “How” to use the technology to create your own project in HTML.
+# Webmaster Learning Paths
 
 Written by Webmaster Outreach[google.com] sponsored by — Google
 
