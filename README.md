@@ -1,7 +1,5 @@
 # Webmaster Learning Paths - Learn HTML
 
-Learn HTML is a hands-on introduction to HTML, also known as Hypertext Markup Language. In this lesson you will use HTML to create a webpage.
-
 Written by [Webmaster Outreach](https://www.google.com/webmasters/ sponsored by — Google
 
 This is a learning program that anyone can use to learn more about creating and editing content online. It walks you through a hands-on approach to learning and using basic web development technologies: how to learn it and what tools can be used for it.
