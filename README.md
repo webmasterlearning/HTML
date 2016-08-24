@@ -4,7 +4,7 @@ Learn HTML is a hands-on introduction to HTML, also known as Hypertext Markup La
 
 Written by [Webmaster Outreach](https://www.google.com/webmasters/ sponsored by — Google
 
-This is a learning program that anyone can use to learn more about creating and editing content online. It walks you through a hands-on approach to front-end development: how to learn it and what tools can be used for it.
+This is a learning program that anyone can use to learn more about creating and editing content online. It walks you through a hands-on approach to learning and using basic web development technologies: how to learn it and what tools can be used for it.
 
 This is a free resource translated in many languages intended to provide emerging developers with learning materials and tools to create great content online.
 
